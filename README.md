@@ -13,3 +13,5 @@ Steps for analysis are:
 
 # Poem
 You can find the poem [here](http://search1.ruscorpora.ru/search.xml?env=alpha&mycorp=&mysent=&mysize=&mysentsize=&mydocsize=&dpp=&spp=&spd=&text=lexform&mode=poetic&sort=gr_tagging&ext=10&nodia=1&req=%EF%E5%F0%E5%E4%20%EB%E8%F1%F2%EE%EF%E0%E4%EE%EC&docid=70555&sid=2&expand=full)
+
+[![DOI](https://zenodo.org/badge/19768/gree-gorey/poetryAnalysisTarkovsky.svg)](https://zenodo.org/badge/latestdoi/19768/gree-gorey/poetryAnalysisTarkovsky)
